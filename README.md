@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glowingsword
 - 👀 I’m interested in WEB technologies, Linux and video games.
 - 🌱 I’m currently learning English and Ansible.
-- 💞️ I’m looking to collaborate on my path to make knowledge about Linux and Linux administration.
+- 💞️ I’m looking to collaborate on my path to make knowledge about Linux and Linux administration more popular.
 <!--- 📫 How to reach me ...--->
 
 <!---
